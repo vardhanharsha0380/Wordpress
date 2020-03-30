@@ -1,0 +1,4 @@
+chromeDriver="C:\Users\HP PC\eclipse-workspace\SeleniumCaseStudy\src\test\resources\chromedriver.exe"
+firefoxDriver="C:\Users\HP PC\eclipse-workspace\SeleniumCaseStudy\src\test\resources\geckodriver.exe"
+URL="http://demosite.centre/wordpress/wp-login.php"
+Excelpath=
